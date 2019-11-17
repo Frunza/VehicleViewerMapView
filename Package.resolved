@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "VehicleViewerCore",
+        "repositoryURL": "https://github.com/Frunza/VehicleViewerCore",
+        "state": {
+          "branch": null,
+          "revision": "ec99e0c474a6ee02fb5391740c22415e346e95af",
+          "version": "0.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
